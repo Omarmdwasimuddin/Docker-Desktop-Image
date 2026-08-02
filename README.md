@@ -8,3 +8,9 @@
 
 #### Download hoyar por images add hoye jabe.
 ![](https://imgur.com/nbdqqe2.png)
+
+#### Containers e terminal open koro and command daw
+```bash
+docker run -it node /bin/bash
+```
+![](https://imgur.com/L8GUmdi.png)
