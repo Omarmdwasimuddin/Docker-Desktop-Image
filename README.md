@@ -14,3 +14,9 @@
 docker run -it node /bin/bash
 ```
 ![](https://imgur.com/Xidcsyt.png)
+
+#### node version check
+```bash
+node -v
+```
+![](https://imgur.com/PgZCWyY.png)
