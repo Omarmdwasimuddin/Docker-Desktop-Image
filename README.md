@@ -20,3 +20,5 @@ docker run -it node /bin/bash
 node -v
 ```
 ![](https://imgur.com/PgZCWyY.png)
+
+#### machine er node version ar docker er node version same hobe na. pewershall e node -v diye command dile version vinno dekhave docker theke.
