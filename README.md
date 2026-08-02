@@ -13,4 +13,4 @@
 ```bash
 docker run -it node /bin/bash
 ```
-![](https://imgur.com/L8GUmdi.png)
+![](https://imgur.com/Xidcsyt.png)
